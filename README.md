@@ -1,6 +1,6 @@
 # Tibetan-Chess-JJ
 
-![Java](https://img.shields.io/badge/Java-17-blue) ![Swing](https://img.shields.io/badge/GUI-Swing-orange)
+![Java](https://img.shields.io/badge/Java-17-blue) 
 
 一个基于Java的藏棋久棋游戏，支持人机对战和AI自动对弈，包含多种AI算法和游戏模式。
 
